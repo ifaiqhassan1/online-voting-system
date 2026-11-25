@@ -76,4 +76,4 @@ online-voting-system/
 ## Authors
 
 - **Faiq Hassan** — Project Presenter, Research & Documentation ([GitHub](https://github.com/ifaiqhassan1) · [LinkedIn](https://www.linkedin.com/in/faiq-hassan-))
-- **Abdullah** — Co-developer
+  
