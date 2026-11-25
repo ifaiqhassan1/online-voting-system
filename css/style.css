@@ -1,0 +1,27 @@
+@font-face {
+  font-family: abcd;
+  src: url(Quicksand-Italic.otf);
+}
+.head1{
+  font-family: abcd;
+}
+.vv{
+  border-radius: 30px;
+}
+.aa{
+  width: 70%;
+  height: 15px;
+}
+
+.bb{
+  width: 60%;
+  height: 15px;
+}
+.cc{
+  width: 50%;
+  height: 15px;
+}
+.dd{
+  width: 40%;
+  height: 15px;
+}
