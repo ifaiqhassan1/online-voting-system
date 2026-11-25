@@ -1,0 +1,10 @@
+# Uploaded user avatars
+usersimg/*
+!usersimg/.gitkeep
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
